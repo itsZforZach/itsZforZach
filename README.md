@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsZforZach
+- 👀 I’m interested in ... coding, hardware, software
+- 🌱 I’m currently learning ... too much stuff
+- 💞️ I’m looking to collaborate on ... minecraft mod creation
+- 📫 How to reach me ... Discord: puffshroomman
