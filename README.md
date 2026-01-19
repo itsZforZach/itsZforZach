@@ -1,3 +1,9 @@
+I'm a cute little catboy top frfr >ω<
+Also I conlang.
+Or in longer words:
+
+----
+
 *h₁nómn̥ h₁moy h₁ésti "Sékh₁", éǵh₂ h₁ésmi "yutubēr", h₁e éǵh₂ léwbʰoh₂ dn̥ǵʰwéh₂m̥s
 
 **My name's Zach, I'm a youtuber, and I like languages.**
@@ -19,5 +25,3 @@ I am still working on figuring stuff out though.
 -----
 
 I also code sometimes, I guess that's obvious too. I have my most experience in Python and x86 NASM, with C# in second place, the rest are pretty much uncharted territory for me.
-
-Also I'm a silly catboy sometimes ig :3
